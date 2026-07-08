@@ -1,6 +1,7 @@
 # Vehicle Rental System
 ### Core Java | OOP | File Persistence | Console Application
-
+--- 
+Vahana is a console-based Vehicle Rental System built in Java that applies core Object-Oriented Programming (OOP) concepts and design patterns to manage car, bike, and SUV bookings. It features distinct interfaces for customers and admins, dynamic rental pricing, and native file persistence to save data between sessions.
 ---
 
 ## Project Structure
