@@ -138,7 +138,6 @@ Data is stored in a `data/` directory using Java Serialization:
 - Data saves on `Save & Exit`
 - Shutdown hook ensures auto-save even on abrupt exit
 # Vahana
----
 
 ## Author
 
